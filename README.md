@@ -4,7 +4,7 @@ I build RAG pipelines and multi-agent systems, and I measure whether they actual
 
 - Build in the open: a [RAG service](https://github.com/jpgg2105/ai-document-analyst), a [research agent](https://github.com/jpgg2105/research-agent) that uses it, and a [benchmark](https://github.com/jpgg2105/agent-benchmark) that checks whether the agent beats a single call.
 - [Write scroll-driven explainers](https://garciajp.com/writing/) on RAG, agents, evals and problem solving.
-- Ship to production: a dashboard that follows students across hundreds of schools, from the database to the Linux server.
+- Ship to production: a dashboard that follows students across hundreds of schools.
 - Spent a year studying Computer Science at the University of Pennsylvania, and I'm finishing AI Engineering at Universidad de Palermo.
 - Fun fact: I won a bronze medal at the International Junior Science Olympiad in Qatar, back in 2019.
 
