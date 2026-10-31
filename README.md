@@ -27,15 +27,15 @@ Hybrid retrieval with BM25, dense vectors and a cross-encoder, answers with cita
 <!-- writing starts -->
 [Does a four-agent loop beat a single LLM call? I measured it](https://garciajp.com/writing/does-an-agent-beat-a-single-llm-call/?ref=github) - 2026&#8209;10&#8209;31
 
-[How RLHF works](https://garciajp.com/writing/how-rlhf-works/?ref=github) - 2026&#8209;10&#8209;27
+[How an LLM request is served: prefill, decode and the KV cache](https://garciajp.com/writing/how-llm-inference-works/?ref=github) - 2026&#8209;10&#8209;31
 
-[How DPO works, and when to use it instead of RLHF](https://garciajp.com/writing/how-dpo-works/?ref=github) - 2026&#8209;10&#8209;27
+[Long context or RAG? What models actually use](https://garciajp.com/writing/long-context-vs-rag/?ref=github) - 2026&#8209;10&#8209;31
+
+[How structured outputs work: constrained decoding](https://garciajp.com/writing/how-structured-outputs-work/?ref=github) - 2026&#8209;10&#8209;31
 
 [How to evaluate an LLM app](https://garciajp.com/writing/how-to-evaluate-llm-apps/?ref=github) - 2026&#8209;10&#8209;09
 
 [How RAG works](https://garciajp.com/writing/how-rag-works/?ref=github) - 2026&#8209;10&#8209;09
-
-[How AI agents work](https://garciajp.com/writing/how-ai-agents-work/?ref=github) - 2026&#8209;10&#8209;09
 <!-- writing ends -->
 More on [garciajp.com](https://garciajp.com/writing/?ref=github)
 </td><td valign="top" width="33%">
