@@ -29,7 +29,7 @@ Hybrid retrieval with BM25, dense vectors and a cross-encoder, answers with cita
 
 [How DPO works, and when to use it instead of RLHF](https://garciajp.com/writing/how-dpo-works/?ref=github) - 2026&#8209;10&#8209;27
 
-[How AI is changing software development](https://garciajp.com/writing/how-ai-is-changing-software-development/?ref=github) - 2026&#8209;10&#8209;12
+[How MCP connects AI apps to tools](https://garciajp.com/writing/how-mcp-works/?ref=github) - 2026&#8209;10&#8209;09
 
 [How to evaluate an LLM app](https://garciajp.com/writing/how-to-evaluate-llm-apps/?ref=github) - 2026&#8209;10&#8209;09
 
