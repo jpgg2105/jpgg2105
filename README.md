@@ -2,7 +2,7 @@
 
 I build RAG pipelines and multi-agent systems, and I measure whether they actually work. I'm an AI developer in San Juan, Argentina, open to remote roles (UTC−3, English C2). These days I...
 
-- Build in the open: a [RAG service](https://github.com/jpgg2105/ai-document-analyst), a [research agent](https://github.com/jpgg2105/research-agent) that uses it, and a [benchmark](https://github.com/jpgg2105/agent-benchmark) that checks whether the agent beats a single call.
+- Build in the open: a [RAG service](https://github.com/jpgg2105/ai-document-analyst), a [research agent](https://github.com/jpgg2105/research-agent) that uses it, and a [benchmark](https://github.com/jpgg2105/agent-benchmark) that checks whether the agent beats a single call. It does: [86% vs 74% on 100 multi-hop questions](https://garciajp.com/writing/does-an-agent-beat-a-single-llm-call/?ref=github).
 - [Write scroll-driven explainers](https://garciajp.com/writing/?ref=github) on RAG, agents, evals and problem solving.
 - Ship to production: a dashboard that follows students across hundreds of schools, from the database to the Linux server.
 - Spent a year studying Computer Science at the University of Pennsylvania, and I'm finishing AI Engineering at Universidad de Palermo.
@@ -13,7 +13,7 @@ I build RAG pipelines and multi-agent systems, and I measure whether they actual
 ### Building
 <!-- building starts -->
 [agent-benchmark](https://github.com/jpgg2105/agent-benchmark)<br>
-The agent loop vs a single RAG call, same questions, scored on coverage, grounding and correctness
+The agent loop vs a single RAG call on 100 HotpotQA questions: 86% vs 74% correct
 
 [research-agent](https://github.com/jpgg2105/research-agent)<br>
 Planner, researchers, critic and synthesizer. No LangChain, OpenAI or Anthropic
@@ -25,6 +25,8 @@ Hybrid retrieval with BM25, dense vectors and a cross-encoder, answers with cita
 
 ### Writing
 <!-- writing starts -->
+[Does a four-agent loop beat a single LLM call? I measured it](https://garciajp.com/writing/does-an-agent-beat-a-single-llm-call/?ref=github) - 2026&#8209;10&#8209;31
+
 [How RLHF works](https://garciajp.com/writing/how-rlhf-works/?ref=github) - 2026&#8209;10&#8209;27
 
 [How DPO works, and when to use it instead of RLHF](https://garciajp.com/writing/how-dpo-works/?ref=github) - 2026&#8209;10&#8209;27
