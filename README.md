@@ -19,10 +19,10 @@ The agent loop vs a single RAG call on 100 HotpotQA questions: 86% vs 74% correc
 LoRA on a 1.5B model vs prompting a larger one: where fine-tuning catches up
 
 [agent-injection-lab](https://github.com/jpgg2105/agent-injection-lab)<br>
-36 planted prompt injections vs 6 defences: what each one stops and what it costs
+36 planted prompt injections vs 4 defenses, alone and combined: what each one stops and what it costs
 
 [retrieval-ablation](https://github.com/jpgg2105/retrieval-ablation)<br>
-Each stage of my RAG retrieval measured on 1,008 questions: a tokenizer fix beat hybrid fusion
+Each stage of my RAG retrieval measured on 1,008 questions: the biggest gain was a one-line tokenizer fix
 <!-- building ends -->
 </td><td valign="top" width="34%">
 
@@ -30,7 +30,7 @@ Each stage of my RAG retrieval measured on 1,008 questions: a tokenizer fix beat
 <!-- writing starts -->
 [When does LoRA fine-tuning beat a good prompt? I measured the crossover](https://garciajp.com/writing/lora-vs-prompting/?ref=github) - 2026&#8209;11&#8209;01
 
-[What actually stops prompt injection? I tested six defences](https://garciajp.com/writing/what-stops-prompt-injection/?ref=github) - 2026&#8209;11&#8209;01
+[What actually stops prompt injection? I tested four defenses](https://garciajp.com/writing/what-stops-prompt-injection/?ref=github) - 2026&#8209;11&#8209;01
 
 [How prompt injection works, and what actually stops it](https://garciajp.com/writing/how-prompt-injection-works/?ref=github) - 2026&#8209;11&#8209;01
 
