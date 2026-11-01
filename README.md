@@ -15,6 +15,9 @@ I build RAG pipelines and multi-agent systems, and I measure whether they actual
 [agent-benchmark](https://github.com/jpgg2105/agent-benchmark)<br>
 The agent loop vs a single RAG call on 100 HotpotQA questions: 86% vs 74% correct
 
+[lora-vs-prompting](https://github.com/jpgg2105/lora-vs-prompting)<br>
+LoRA on a 1.5B model vs prompting a larger one: where fine-tuning catches up
+
 [agent-injection-lab](https://github.com/jpgg2105/agent-injection-lab)<br>
 36 planted prompt injections vs 6 defences: what each one stops and what it costs
 
@@ -25,6 +28,8 @@ Each stage of my RAG retrieval measured on 1,008 questions: a tokenizer fix beat
 
 ### Writing
 <!-- writing starts -->
+[When does LoRA fine-tuning beat a good prompt? I measured the crossover](https://garciajp.com/writing/lora-vs-prompting/?ref=github) - 2026&#8209;11&#8209;01
+
 [What actually stops prompt injection? I tested six defences](https://garciajp.com/writing/what-stops-prompt-injection/?ref=github) - 2026&#8209;11&#8209;01
 
 [How prompt injection works, and what actually stops it](https://garciajp.com/writing/how-prompt-injection-works/?ref=github) - 2026&#8209;11&#8209;01
@@ -34,8 +39,6 @@ Each stage of my RAG retrieval measured on 1,008 questions: a tokenizer fix beat
 [How hybrid search and reranking work, measured on my RAG pipeline](https://garciajp.com/writing/how-hybrid-search-works/?ref=github) - 2026&#8209;11&#8209;01
 
 [Does a four-agent loop beat a single LLM call? I measured it](https://garciajp.com/writing/does-an-agent-beat-a-single-llm-call/?ref=github) - 2026&#8209;10&#8209;31
-
-[How an LLM request is served: prefill, decode and the KV cache](https://garciajp.com/writing/how-llm-inference-works/?ref=github) - 2026&#8209;10&#8209;31
 <!-- writing ends -->
 More on [garciajp.com](https://garciajp.com/writing/?ref=github)
 </td><td valign="top" width="33%">
