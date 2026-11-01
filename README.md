@@ -18,13 +18,15 @@ The agent loop vs a single RAG call on 100 HotpotQA questions: 86% vs 74% correc
 [research-agent](https://github.com/jpgg2105/research-agent)<br>
 Planner, researchers, critic and synthesizer. No LangChain, OpenAI or Anthropic
 
-[ai-document-analyst](https://github.com/jpgg2105/ai-document-analyst)<br>
-Hybrid retrieval with BM25, dense vectors and a cross-encoder, answers with citations
+[retrieval-ablation](https://github.com/jpgg2105/retrieval-ablation)<br>
+Each stage of my RAG retrieval measured on 1,008 questions: a tokenizer fix beat hybrid fusion
 <!-- building ends -->
 </td><td valign="top" width="34%">
 
 ### Writing
 <!-- writing starts -->
+[Does hybrid search plus reranking pay for itself? I measured my RAG pipeline](https://garciajp.com/writing/does-hybrid-search-pay-for-itself/?ref=github) - 2026&#8209;11&#8209;01
+
 [Does a four-agent loop beat a single LLM call? I measured it](https://garciajp.com/writing/does-an-agent-beat-a-single-llm-call/?ref=github) - 2026&#8209;10&#8209;31
 
 [How an LLM request is served: prefill, decode and the KV cache](https://garciajp.com/writing/how-llm-inference-works/?ref=github) - 2026&#8209;10&#8209;31
@@ -34,8 +36,6 @@ Hybrid retrieval with BM25, dense vectors and a cross-encoder, answers with cita
 [How structured outputs work: constrained decoding](https://garciajp.com/writing/how-structured-outputs-work/?ref=github) - 2026&#8209;10&#8209;31
 
 [How to evaluate an LLM app](https://garciajp.com/writing/how-to-evaluate-llm-apps/?ref=github) - 2026&#8209;10&#8209;09
-
-[How RAG works](https://garciajp.com/writing/how-rag-works/?ref=github) - 2026&#8209;10&#8209;09
 <!-- writing ends -->
 More on [garciajp.com](https://garciajp.com/writing/?ref=github)
 </td><td valign="top" width="33%">
