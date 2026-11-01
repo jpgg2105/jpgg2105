@@ -29,13 +29,13 @@ Each stage of my RAG retrieval measured on 1,008 questions: a tokenizer fix beat
 
 [Does hybrid search plus reranking pay for itself? I measured my RAG pipeline](https://garciajp.com/writing/does-hybrid-search-pay-for-itself/?ref=github) - 2026&#8209;11&#8209;01
 
+[How hybrid search and reranking work, measured on my RAG pipeline](https://garciajp.com/writing/how-hybrid-search-works/?ref=github) - 2026&#8209;11&#8209;01
+
 [Does a four-agent loop beat a single LLM call? I measured it](https://garciajp.com/writing/does-an-agent-beat-a-single-llm-call/?ref=github) - 2026&#8209;10&#8209;31
 
 [How an LLM request is served: prefill, decode and the KV cache](https://garciajp.com/writing/how-llm-inference-works/?ref=github) - 2026&#8209;10&#8209;31
 
 [Long context or RAG? What models actually use](https://garciajp.com/writing/long-context-vs-rag/?ref=github) - 2026&#8209;10&#8209;31
-
-[How structured outputs work: constrained decoding](https://garciajp.com/writing/how-structured-outputs-work/?ref=github) - 2026&#8209;10&#8209;31
 <!-- writing ends -->
 More on [garciajp.com](https://garciajp.com/writing/?ref=github)
 </td><td valign="top" width="33%">
