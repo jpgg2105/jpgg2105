@@ -28,17 +28,17 @@ Each stage of my RAG retrieval measured on 1,008 questions: the biggest gain was
 
 ### Writing
 <!-- writing starts -->
+[How agent graphs work: nodes, edges and safe cycles](https://garciajp.com/writing/how-agent-graphs-work/?ref=github) - 2026&#8209;11&#8209;06
+
+[How agent loops work: the loops around the loop](https://garciajp.com/writing/how-agent-loops-work/?ref=github) - 2026&#8209;11&#8209;06
+
+[How an agent harness works](https://garciajp.com/writing/how-agent-harnesses-work/?ref=github) - 2026&#8209;11&#8209;06
+
 [When does LoRA fine-tuning beat a good prompt? I measured the crossover](https://garciajp.com/writing/lora-vs-prompting/?ref=github) - 2026&#8209;11&#8209;01
 
 [What actually stops prompt injection? I tested four defenses](https://garciajp.com/writing/what-stops-prompt-injection/?ref=github) - 2026&#8209;11&#8209;01
 
-[How prompt injection works, and what actually stops it](https://garciajp.com/writing/how-prompt-injection-works/?ref=github) - 2026&#8209;11&#8209;01
-
 [Does hybrid search plus reranking pay for itself? I measured my RAG pipeline](https://garciajp.com/writing/does-hybrid-search-pay-for-itself/?ref=github) - 2026&#8209;11&#8209;01
-
-[How hybrid search and reranking work, measured on my RAG pipeline](https://garciajp.com/writing/how-hybrid-search-works/?ref=github) - 2026&#8209;11&#8209;01
-
-[Does a four-agent loop beat a single LLM call? I measured it](https://garciajp.com/writing/does-an-agent-beat-a-single-llm-call/?ref=github) - 2026&#8209;10&#8209;31
 <!-- writing ends -->
 More on [garciajp.com](https://garciajp.com/writing/?ref=github)
 </td><td valign="top" width="33%">
