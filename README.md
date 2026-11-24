@@ -13,7 +13,7 @@ I build RAG pipelines and multi-agent systems, and I measure whether they actual
 ### Building
 <!-- building starts -->
 [agent-benchmark](https://github.com/jpgg2105/agent-benchmark)<br>
-The agent loop vs a single RAG call on 100 HotpotQA questions: 86% vs 74% correct
+The agent loop vs a single RAG call on 100 HotpotQA questions: 86% vs 78% correct with matched prompts, +18 points on questions that need a second search
 
 [lora-vs-prompting](https://github.com/jpgg2105/lora-vs-prompting)<br>
 LoRA on a 1.5B model vs prompting a larger one: where fine-tuning catches up
